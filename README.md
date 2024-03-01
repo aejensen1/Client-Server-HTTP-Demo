@@ -8,7 +8,7 @@ This was a team project for Computer Networks class demonstrates a connection be
 ---------------------------
 
 Instructions:
-We decided to use python in the client and server code as well as a remote server created via Droplet. The server python code was run on the server and Client code run on the local host. The port used on the server ended up being 6789, but this can be changed to any available port. As a disclaimer, the droplet is now disabled and destroyed so any attempts to connect to that IP address will fail. Make sure to chage the server IP address, which is currently set to "x.x.x.x" in the server python code. The html, which must also be on ther server, is a simple file with a HelloWorld header.
+We decided to use python in the client and server code as well as a remote server created via Droplet. The server python code was run on the server and Client code run on the local host. The port used on the server ended up being 6789, but this can be changed to any available port. As a disclaimer, the droplet is now disabled and destroyed so any attempts to connect to that IP address will fail. Make sure to chage the server IP address, which is currently set to "x.x.x.x" in the client python code. The html, which must also be on ther server, is a simple file with a HelloWorld header.
 
 ---------------------------
 
